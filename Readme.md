@@ -1,0 +1,1 @@
+This is movie rating service
